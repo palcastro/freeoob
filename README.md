@@ -42,4 +42,22 @@
 ![image](https://user-images.githubusercontent.com/91055754/150489320-110279be-c9dd-4bb3-b6f8-308f760e8467.png)
 ![image](https://user-images.githubusercontent.com/91055754/150489368-1c1ec765-89e6-4fa0-9b49-a22f3307fbaf.png)
 
+Estos pasos deberían conducirnos a los datos de un archivo Php, para ello llevaremos a cabo los siguientes pasos:
+
+- Creamos un archivo con nombre 'login-basico.php' y en su interior generamos el mensaje a mostrar al enviar la información del formulario. Debería verse algo así:
+
+![image](https://user-images.githubusercontent.com/91055754/150781431-8312921a-2121-4a9c-9678-6589d2765070.png)
+
+- En el archivo de 'index.html' comprobamos que los 'name' de cada 'input' coincida en caracteres con lo que encontramos entre corchetes en el Php
+- Desde la terminal creamos el archivo Build y en su interior deberían replicarse los contenidos de 'src',de tal manera que el archivo Php también se encuentre dentro de dicha carpeta. 
+- Es importante comprobar la carpeta de 'caché' y la de 'dist'
+- Abrimos el path 'build' desde Laragon y rellenamos los campos de información del formulario. 
+
+El resultado debería ser parecido a la siguiente imagen, pero con los datos introducidos en el archivo Php:
+
+![image](https://user-images.githubusercontent.com/91055754/150781472-2b8f0c81-12fd-487d-8963-bf482ae7a3ad.png)
+
+
+
+
 
