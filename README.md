@@ -57,6 +57,14 @@ El resultado debería ser parecido a la siguiente imagen, pero con los datos int
 
 ![image](https://user-images.githubusercontent.com/91055754/150781472-2b8f0c81-12fd-487d-8963-bf482ae7a3ad.png)
 
+### Añadir archivos carpeta subidos 
+- Creamos un fichero de 'subidos' dentro de 'src'
+- También creamos un archivo llamado 'procesar_subida'
+- En 'index.html' creamos un 'input' para la subida de archivos y lo vinculamos correctamente al archivo de procesar la subida
+- Al completarlo todo y entrar desde Laragon debería permitir adjuntar un archivo y al darle subir debería subirse automáticamente a la carpeta de subidos creada con anterioridad en el directorio src
+- Debería verse algo así:
+
+![image](https://user-images.githubusercontent.com/91055754/150794150-edf5483c-c1c4-4914-85c8-f552a0dbc330.png)
 
 
 
